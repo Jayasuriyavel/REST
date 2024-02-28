@@ -1,0 +1,58 @@
+[
+  {
+    "companyID": "company_1",
+    "SelledID": "1a",
+    "SellerName": "JAYDEN",
+    "SalesAmount": 5000,
+    "OrderDate": "1/9/1997"
+  },
+  {
+    "companyID": "company_2",
+    "SelledID": "2a",
+    "SellerName": "SURYA",
+    "SalesAmount": 4000,
+    "OrderDate": "1/5/1997"
+  },
+  {
+    "companyID": "company_3",
+    "SelledID": "3a",
+    "SellerName": "abc",
+    "SalesAmount": 4000,
+    "OrderDate": "1/8/1997"
+  },
+  {
+    "companyID": "company_4",
+    "SelledID": "4a",
+    "SellerName": "dfgdvb",
+    "SalesAmount": 3000,
+    "OrderDate": "1/8/1997"
+  },
+  {
+    "companyID": "company_5",
+    "SelledID": "5a",
+    "SellerName": "ALFKI",
+    "SalesAmount": 3000,
+    "OrderDate": "1/8/1997"
+  },
+  {
+    "companyID": "company_6",
+    "SelledID": "6a",
+    "SellerName": "ANTON",
+    "SalesAmount": 6000,
+    "OrderDate": "1/8/1997"
+  },
+  {
+    "companyID": "company_7",
+    "SelledID": "7a",
+    "SellerName": "QUEEN",
+    "SalesAmount": 6000,
+    "OrderDate": "1/8/1997"
+  },
+  {
+    "companyID": "company_8",
+    "SelledID": "8a",
+    "SellerName": "VINET",
+    "SalesAmount": 7000,
+    "OrderDate": "1/8/1997"
+  }
+]
