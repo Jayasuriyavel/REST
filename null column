@@ -7,7 +7,7 @@
     "OrderDate": "1/9/1997"
   },
   {
-    "companyID": "null",
+    "companyID": "",
     "SelledID": "2a",
     "SellerName": "SURYA",
     "SalesAmount": 4000,
