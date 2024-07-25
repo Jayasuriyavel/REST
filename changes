@@ -3,20 +3,20 @@
     {
       "country": "India",
       "image_url": "https://www.istockphoto.com/photo/india-flag-waving-background-gm931097020-255225775?utm_source=pixabay&utm_medium=affiliate&utm_campaign=SRP_image_sponsored&utm_content=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Findia%2520flag%2F&utm_term=india+flag",
+      "address": "India Gate, New Delhi, India",
       "dummy_string": "Lorem ipsum dolor sit amet",
       "dummy_number": 123
     },
     {
       "country": "UK",
       "image_url": "https://th.bing.com/th/id/OIP.xZU2eaShw9o68_ShqRCFmAHaFP?rs=1&pid=ImgDetMain",
+      "address": "10 Downing Street, London, UK",
       "dummy_string": "consectetur adipiscing elit",
       "dummy_number": 456
     },
     {
       "country": "USA",
       "image_url": "https://www.bing.com/images/search?view=detailV2&ccid=YBAjuQl2&id=C61555313A3F3AAFBFB1BC49E102CEDB7CCDB702&thid=OIP.YBAjuQl2uWHqVQobVNbCZAHaE8&mediaurl=https%3a%2f%2fwww.publicdomainpictures.net%2fpictures%2f170000%2fvelka%2funited-states-of-america-flag-1462903818ek6.jpg&exph=1280&expw=1920&q=USA+image+url&simid=608038366272912749&FORM=IRPRST&ck=C1FA1EE19C7F69EF211AB92B5D668E10&selectedIndex=0&itb=0",
+      "address": "1600 Pennsylvania Avenue NW, Washington, D.C., USA",
       "dummy_string": "sed do eiusmod tempor incididunt",
-      "dummy_number": 789
-    }
-  ]
-}
+      "dummy_number": 
