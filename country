@@ -1,0 +1,67 @@
+{
+  "cities": [
+    {
+      "country": "China",
+      "city": "Beijing",
+      "population": 21540000,
+      "latitude": 39.9042,
+      "longitude": 116.4074,
+      "image": "https://example.com/images/beijing.jpg"
+    },
+    {
+      "country": "Japan",
+      "city": "Tokyo",
+      "population": 13929286,
+      "latitude": 35.6895,
+      "longitude": 139.6917,
+      "image": "https://example.com/images/tokyo.jpg"
+    },
+    {
+      "country": "India",
+      "city": "New Delhi",
+      "population": 30290936,
+      "latitude": 28.6139,
+      "longitude": 77.2090,
+      "image": "https://example.com/images/newdelhi.jpg"
+    },
+    {
+      "country": "Thailand",
+      "city": "Bangkok",
+      "population": 8281000,
+      "latitude": 13.7563,
+      "longitude": 100.5018,
+      "image": "https://example.com/images/bangkok.jpg"
+    },
+    {
+      "country": "South Korea",
+      "city": "Seoul",
+      "population": 9776000,
+      "latitude": 37.5665,
+      "longitude": 126.9780,
+      "image": "https://example.com/images/seoul.jpg"
+    },
+    {
+      "country": "Vietnam",
+      "city": "Ho Chi Minh City",
+      "population": 8490000,
+      "latitude": 10.8231,
+      "longitude": 106.6297,
+      "image": "https://example.com/images/hcmc.jpg"
+    },
+    {
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "population": 1762000,
+      "latitude": 3.139,"longitude": 101.6869,
+      "image": "https://example.com/images/kualalumpur.jpg"
+    },
+    {
+      "country": "Singapore",
+      "city": "Singapore",
+      "population": 5685807,
+      "latitude": 1.3521,
+      "longitude": 103.8198,
+      "image": "https://example.com/images/singapore.jpg"
+    }
+  ]
+}
