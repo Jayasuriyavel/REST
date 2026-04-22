@@ -75,7 +75,7 @@ private readonly BASE_URL =
 ```
 Update test users in: `tests/data/users.ts`
 
-```
+```ts
 export const USERS = {
   builder: {
     email: 'builder@example.com',
@@ -100,3 +100,4 @@ After running tests, view the HTML report:
 
 ```bash
 npx playwright show-report
+```
