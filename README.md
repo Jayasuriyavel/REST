@@ -24,6 +24,7 @@ npm install
 npx playwright install --with-deps
 npm install -D monocart-reporter
 ```
+
 ### 3. Install Playwright Extension (Optional)
 
 To enhance your development experience, you can install the Playwright extension in VS Code.
@@ -101,3 +102,13 @@ After running tests, view the HTML report:
 ```bash
 npx playwright show-report
 ```
+
+⚙️ **Optional: Run tests in headed mode by default**
+
+ You can disable headless mode globally by updating `playwright.config.ts`:
+```ts
+ use: {
+   headless: false
+ }
+ ```
+ This will launch the browser UI for all test runs.
