@@ -73,10 +73,9 @@ private readonly BASE_URL =
   process.env.BASE_URL || 'https://staging.boldagent.ai';
 
 ```
-Update test users in:
+Update test users in: `tests/data/users.ts`
 
 ```
-`tests/data/users.ts`
 export const USERS = {
   builder: {
     email: 'builder@example.com',
